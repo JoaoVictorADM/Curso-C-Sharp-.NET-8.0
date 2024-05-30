@@ -1,0 +1,14 @@
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\bin\Debug\net8.0\1ConversaoTipos.exe
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\bin\Debug\net8.0\1ConversaoTipos.deps.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\bin\Debug\net8.0\1ConversaoTipos.runtimeconfig.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\bin\Debug\net8.0\1ConversaoTipos.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\bin\Debug\net8.0\1ConversaoTipos.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\obj\Debug\net8.0\1ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\obj\Debug\net8.0\1ConversaoTipos.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\obj\Debug\net8.0\1ConversaoTipos.AssemblyInfo.cs
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\obj\Debug\net8.0\1ConversaoTipos.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\obj\Debug\net8.0\1ConversaoTipos.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\obj\Debug\net8.0\refint\1ConversaoTipos.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\obj\Debug\net8.0\1ConversaoTipos.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\obj\Debug\net8.0\1ConversaoTipos.genruntimeconfig.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\1ConversaoTipos\obj\Debug\net8.0\ref\1ConversaoTipos.dll

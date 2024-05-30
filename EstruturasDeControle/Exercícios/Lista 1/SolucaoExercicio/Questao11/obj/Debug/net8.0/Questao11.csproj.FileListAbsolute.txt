@@ -1,0 +1,14 @@
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\bin\Debug\net8.0\Questao11.exe
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\bin\Debug\net8.0\Questao11.deps.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\bin\Debug\net8.0\Questao11.runtimeconfig.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\bin\Debug\net8.0\Questao11.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\bin\Debug\net8.0\Questao11.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\obj\Debug\net8.0\Questao11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\obj\Debug\net8.0\Questao11.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\obj\Debug\net8.0\Questao11.AssemblyInfo.cs
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\obj\Debug\net8.0\Questao11.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\obj\Debug\net8.0\Questao11.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\obj\Debug\net8.0\refint\Questao11.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\obj\Debug\net8.0\Questao11.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\obj\Debug\net8.0\Questao11.genruntimeconfig.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao11\obj\Debug\net8.0\ref\Questao11.dll

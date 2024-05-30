@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConversaoTipos1/1.0.0": {
+        "runtime": {
+          "ConversaoTipos1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConversaoTipos1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\C\u00F3digosAulas\\EstruturasDeControle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C34F836-23A4-401F-BA2C-B66F3D563229}|BreakEContinue\\BreakEContinue.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\c\u00F3digosaulas\\estruturasdecontrole\\breakecontinue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C34F836-23A4-401F-BA2C-B66F3D563229}|BreakEContinue\\BreakEContinue.csproj|solutionrelative:breakecontinue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CE0359-871F-457B-B8E9-D206560FA48C}|RepeticaoFor\\RepeticaoFor.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\c\u00F3digosaulas\\estruturasdecontrole\\repeticaofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CE0359-871F-457B-B8E9-D206560FA48C}|RepeticaoFor\\RepeticaoFor.csproj|solutionrelative:repeticaofor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5289D0C1-5FB5-4EDE-A41A-6F15CD17B928}|RepeticaoDoWhile\\RepeticaoDoWhile.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\c\u00F3digosaulas\\estruturasdecontrole\\repeticaodowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5289D0C1-5FB5-4EDE-A41A-6F15CD17B928}|RepeticaoDoWhile\\RepeticaoDoWhile.csproj|solutionrelative:repeticaodowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E088FCE0-4D2B-45E5-8B2B-34B0F61D3FF6}|RepeticaoWhile\\RepeticaoWhile.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\c\u00F3digosaulas\\estruturasdecontrole\\repeticaowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E088FCE0-4D2B-45E5-8B2B-34B0F61D3FF6}|RepeticaoWhile\\RepeticaoWhile.csproj|solutionrelative:repeticaowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\C\u00F3digosAulas\\EstruturasDeControle\\BreakEContinue\\Program.cs",
+              "RelativeDocumentMoniker": "BreakEContinue\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\C\u00F3digosAulas\\EstruturasDeControle\\BreakEContinue\\Program.cs",
+              "RelativeToolTip": "BreakEContinue\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:53:15.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\C\u00F3digosAulas\\EstruturasDeControle\\RepeticaoFor\\Program.cs",
+              "RelativeDocumentMoniker": "RepeticaoFor\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\C\u00F3digosAulas\\EstruturasDeControle\\RepeticaoFor\\Program.cs",
+              "RelativeToolTip": "RepeticaoFor\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:42:34.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\C\u00F3digosAulas\\EstruturasDeControle\\RepeticaoDoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "RepeticaoDoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\C\u00F3digosAulas\\EstruturasDeControle\\RepeticaoDoWhile\\Program.cs",
+              "RelativeToolTip": "RepeticaoDoWhile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:37:30.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\C\u00F3digosAulas\\EstruturasDeControle\\RepeticaoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "RepeticaoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\C\u00F3digosAulas\\EstruturasDeControle\\RepeticaoWhile\\Program.cs",
+              "RelativeToolTip": "RepeticaoWhile\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:22:31.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

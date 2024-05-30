@@ -1,0 +1,14 @@
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\bin\Debug\net8.0\Exercicio.exe
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\bin\Debug\net8.0\Exercicio.deps.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\bin\Debug\net8.0\Exercicio.runtimeconfig.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\bin\Debug\net8.0\Exercicio.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\bin\Debug\net8.0\Exercicio.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\obj\Debug\net8.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\obj\Debug\net8.0\Exercicio.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\obj\Debug\net8.0\Exercicio.AssemblyInfo.cs
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\obj\Debug\net8.0\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\obj\Debug\net8.0\Exercicio.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\obj\Debug\net8.0\refint\Exercicio.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\obj\Debug\net8.0\Exercicio.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\obj\Debug\net8.0\Exercicio.genruntimeconfig.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Exercícios\9a_Exercicios_fase1\SolucaoExercicio\Exercicio\obj\Debug\net8.0\ref\Exercicio.dll

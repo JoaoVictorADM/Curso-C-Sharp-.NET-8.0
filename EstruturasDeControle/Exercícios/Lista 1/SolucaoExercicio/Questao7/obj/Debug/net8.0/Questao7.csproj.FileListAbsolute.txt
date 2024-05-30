@@ -1,0 +1,28 @@
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.exe
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.deps.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.runtimeconfig.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.AssemblyInfo.cs
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\obj\Debug\net8.0\refint\Questao7.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.genruntimeconfig.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao7\obj\Debug\net8.0\ref\Questao7.dll
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.exe
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.deps.json
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.runtimeconfig.json
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.dll
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\bin\Debug\net8.0\Questao7.pdb
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.AssemblyInfo.cs
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.dll
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\obj\Debug\net8.0\refint\Questao7.dll
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.pdb
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\obj\Debug\net8.0\Questao7.genruntimeconfig.cache
+C:\Users\JV\Desktop\Repositorios Git\C#\Curso Udemy\EstruturasDeControle\Exercícios\Lista 1\SolucaoExercicio\Questao7\obj\Debug\net8.0\ref\Questao7.dll

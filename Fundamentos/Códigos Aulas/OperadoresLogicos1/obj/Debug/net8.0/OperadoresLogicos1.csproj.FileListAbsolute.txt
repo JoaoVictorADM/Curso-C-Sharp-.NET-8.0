@@ -1,0 +1,14 @@
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\bin\Debug\net8.0\OperadoresLogicos1.exe
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\bin\Debug\net8.0\OperadoresLogicos1.deps.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\bin\Debug\net8.0\OperadoresLogicos1.runtimeconfig.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\bin\Debug\net8.0\OperadoresLogicos1.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\bin\Debug\net8.0\OperadoresLogicos1.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\obj\Debug\net8.0\OperadoresLogicos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\obj\Debug\net8.0\OperadoresLogicos1.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\obj\Debug\net8.0\OperadoresLogicos1.AssemblyInfo.cs
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\obj\Debug\net8.0\OperadoresLogicos1.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\obj\Debug\net8.0\OperadoresLogicos1.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\obj\Debug\net8.0\refint\OperadoresLogicos1.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\obj\Debug\net8.0\OperadoresLogicos1.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\obj\Debug\net8.0\OperadoresLogicos1.genruntimeconfig.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresLogicos1\obj\Debug\net8.0\ref\OperadoresLogicos1.dll

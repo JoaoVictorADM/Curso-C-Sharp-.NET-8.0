@@ -1,0 +1,14 @@
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net8.0\OperadoresDeAtribuição.exe
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net8.0\OperadoresDeAtribuição.deps.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net8.0\OperadoresDeAtribuição.runtimeconfig.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net8.0\OperadoresDeAtribuição.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\bin\Debug\net8.0\OperadoresDeAtribuição.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net8.0\OperadoresDeAtribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net8.0\OperadoresDeAtribuição.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net8.0\OperadoresDeAtribuição.AssemblyInfo.cs
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net8.0\OperadoresDeAtribuição.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net8.0\OperadoresDeAtribuição.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net8.0\refint\OperadoresDeAtribuição.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net8.0\OperadoresDeAtribuição.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net8.0\OperadoresDeAtribuição.genruntimeconfig.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\OperadoresDeAtribuição\obj\Debug\net8.0\ref\OperadoresDeAtribuição.dll

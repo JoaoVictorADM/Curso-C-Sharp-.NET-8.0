@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{990A6D0F-E90C-45B9-806A-1CA0E2C9AD53}|Questao7\\Questao7.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990A6D0F-E90C-45B9-806A-1CA0E2C9AD53}|Questao7\\Questao7.csproj|solutionrelative:questao7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA1DA03-65CD-4277-B729-6BF7CD32DA69}|Questao8\\Questao8.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA1DA03-65CD-4277-B729-6BF7CD32DA69}|Questao8\\Questao8.csproj|solutionrelative:questao8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4385C2-F93F-4B47-9155-AB926977FC28}|Questao9\\Questao9.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4385C2-F93F-4B47-9155-AB926977FC28}|Questao9\\Questao9.csproj|solutionrelative:questao9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3A201C-39E2-483F-9AE1-95E8BDC66189}|Quest\u00E3o6\\Quest\u00E3o6.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\quest\u00E3o6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3A201C-39E2-483F-9AE1-95E8BDC66189}|Quest\u00E3o6\\Quest\u00E3o6.csproj|solutionrelative:quest\u00E3o6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4671AF78-F9D4-44EC-A54F-334A321DC1A5}|Questao5\\Questao5.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4671AF78-F9D4-44EC-A54F-334A321DC1A5}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050E9EAF-6602-4D38-8F7F-691142F73119}|Questao4\\Questao4.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050E9EAF-6602-4D38-8F7F-691142F73119}|Questao4\\Questao4.csproj|solutionrelative:questao4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5618E6FA-899C-4E04-A342-7CC583F8F531}|Questao3\\Questao3.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5618E6FA-899C-4E04-A342-7CC583F8F531}|Questao3\\Questao3.csproj|solutionrelative:questao3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A162D7A2-0500-4743-AC4E-89E98C19C02D}|Questao2\\Questao2.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A162D7A2-0500-4743-AC4E-89E98C19C02D}|Questao2\\Questao2.csproj|solutionrelative:questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF5196E-D3B2-47E0-AC3D-8D14E25D7839}|Questao11\\Questao11.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF5196E-D3B2-47E0-AC3D-8D14E25D7839}|Questao11\\Questao11.csproj|solutionrelative:questao11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802E805C-ED11-4602-83CF-09177308EA3F}|Questao10\\Questao10.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802E805C-ED11-4602-83CF-09177308EA3F}|Questao10\\Questao10.csproj|solutionrelative:questao10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3AC5F0-B260-4830-849B-94C958F082F8}|Questao1\\Questao1.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\estruturasdecontrole\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\questao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3AC5F0-B260-4830-849B-94C958F082F8}|Questao1\\Questao1.csproj|solutionrelative:questao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao9\\Program.cs",
+              "RelativeDocumentMoniker": "Questao9\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao9\\Program.cs",
+              "RelativeToolTip": "Questao9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:07:56.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao8\\Program.cs",
+              "RelativeDocumentMoniker": "Questao8\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao8\\Program.cs",
+              "RelativeToolTip": "Questao8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:07:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao7\\Program.cs",
+              "RelativeDocumentMoniker": "Questao7\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao7\\Program.cs",
+              "RelativeToolTip": "Questao7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:07:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Quest\u00E3o6\\Program.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3o6\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Quest\u00E3o6\\Program.cs",
+              "RelativeToolTip": "Quest\u00E3o6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:07:12.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao5\\Program.cs",
+              "RelativeDocumentMoniker": "Questao5\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao5\\Program.cs",
+              "RelativeToolTip": "Questao5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:06:55.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao4\\Program.cs",
+              "RelativeDocumentMoniker": "Questao4\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao4\\Program.cs",
+              "RelativeToolTip": "Questao4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:06:28.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao3\\Program.cs",
+              "RelativeDocumentMoniker": "Questao3\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao3\\Program.cs",
+              "RelativeToolTip": "Questao3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:06:18.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao2\\Program.cs",
+              "RelativeDocumentMoniker": "Questao2\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao2\\Program.cs",
+              "RelativeToolTip": "Questao2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:06:05.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao11\\Program.cs",
+              "RelativeDocumentMoniker": "Questao11\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao11\\Program.cs",
+              "RelativeToolTip": "Questao11\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:05:58.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao10\\Program.cs",
+              "RelativeDocumentMoniker": "Questao10\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao10\\Program.cs",
+              "RelativeToolTip": "Questao10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:05:54.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao1\\Program.cs",
+              "RelativeDocumentMoniker": "Questao1\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\EstruturasDeControle\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Questao1\\Program.cs",
+              "RelativeToolTip": "Questao1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:05:49.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

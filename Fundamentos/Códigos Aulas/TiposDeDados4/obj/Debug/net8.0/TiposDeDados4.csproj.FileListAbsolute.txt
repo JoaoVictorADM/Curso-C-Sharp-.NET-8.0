@@ -1,0 +1,14 @@
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\bin\Debug\net8.0\TiposDeDados4.exe
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\bin\Debug\net8.0\TiposDeDados4.deps.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\bin\Debug\net8.0\TiposDeDados4.runtimeconfig.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\bin\Debug\net8.0\TiposDeDados4.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\bin\Debug\net8.0\TiposDeDados4.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\obj\Debug\net8.0\TiposDeDados4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\obj\Debug\net8.0\TiposDeDados4.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\obj\Debug\net8.0\TiposDeDados4.AssemblyInfo.cs
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\obj\Debug\net8.0\TiposDeDados4.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\obj\Debug\net8.0\TiposDeDados4.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\obj\Debug\net8.0\refint\TiposDeDados4.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\obj\Debug\net8.0\TiposDeDados4.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\obj\Debug\net8.0\TiposDeDados4.genruntimeconfig.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos\CSFundamentos1\TiposDeDados4\obj\Debug\net8.0\ref\TiposDeDados4.dll

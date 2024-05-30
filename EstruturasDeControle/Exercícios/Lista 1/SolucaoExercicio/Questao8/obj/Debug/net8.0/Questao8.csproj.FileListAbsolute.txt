@@ -1,0 +1,14 @@
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\obj\Debug\net8.0\Questao8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\obj\Debug\net8.0\Questao8.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\obj\Debug\net8.0\Questao8.AssemblyInfo.cs
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\obj\Debug\net8.0\Questao8.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\bin\Debug\net8.0\Questao8.exe
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\bin\Debug\net8.0\Questao8.deps.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\bin\Debug\net8.0\Questao8.runtimeconfig.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\bin\Debug\net8.0\Questao8.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\bin\Debug\net8.0\Questao8.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\obj\Debug\net8.0\Questao8.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\obj\Debug\net8.0\refint\Questao8.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\obj\Debug\net8.0\Questao8.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\obj\Debug\net8.0\Questao8.genruntimeconfig.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\SolucaoExercicio\Questao8\obj\Debug\net8.0\ref\Questao8.dll

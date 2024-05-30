@@ -1,0 +1,14 @@
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.exe
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.deps.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.runtimeconfig.json
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.AssemblyInfoInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.AssemblyInfo.cs
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.csproj.CoreCompileInputs.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\refint\PrecedenciaDeOperadores.dll
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.pdb
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.genruntimeconfig.cache
+C:\Users\JV\Desktop\C#\Curso Udemy\Códigos Aulas\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\ref\PrecedenciaDeOperadores.dll
