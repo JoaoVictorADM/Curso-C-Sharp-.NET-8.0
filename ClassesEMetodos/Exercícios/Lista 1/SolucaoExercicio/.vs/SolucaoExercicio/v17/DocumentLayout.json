@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JV\\Desktop\\C#\\Curso Udemy\\Exerc\u00EDcios\\Exercicios_Se\u00E7\u00E3o4\\Exercicio 1\\SolucaoExercicio\\",
+  "WorkspaceRootPath": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\ClassesEMetodos\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE58982F-6A06-46BF-8ADF-3C8EBF47E29B}|Exercicio\\Questao1.csproj|c:\\users\\jv\\desktop\\c#\\curso udemy\\exerc\u00EDcios\\exercicios_se\u00E7\u00E3o4\\exercicio 1\\solucaoexercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58982F-6A06-46BF-8ADF-3C8EBF47E29B}|Exercicio\\Questao1.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{488E75CB-D3CE-4E2B-B691-8AB8C5BB9B23}|Exercicio\\Exercicio.csproj|c:\\users\\jv\\desktop\\repositorios git\\c#\\curso udemy\\classesemetodos\\exerc\u00EDcios\\lista 1\\solucaoexercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E75CB-D3CE-4E2B-B691-8AB8C5BB9B23}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\C#\\Curso Udemy\\Exerc\u00EDcios\\Exercicios_Se\u00E7\u00E3o4\\Exercicio 1\\SolucaoExercicio\\Exercicio\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\ClassesEMetodos\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Exercicio\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio\\Program.cs",
-              "ToolTip": "C:\\Users\\JV\\Desktop\\C#\\Curso Udemy\\Exerc\u00EDcios\\Exercicios_Se\u00E7\u00E3o4\\Exercicio 1\\SolucaoExercicio\\Exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\JV\\Desktop\\Repositorios Git\\C#\\Curso Udemy\\ClassesEMetodos\\Exerc\u00EDcios\\Lista 1\\SolucaoExercicio\\Exercicio\\Program.cs",
               "RelativeToolTip": "Exercicio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAtAAAA",
+              "ViewState": "AQIAAFgAAAAAAAAAAAA2wGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T18:53:56.209Z",
+              "WhenOpened": "2024-07-29T19:58:20.494Z",
               "EditorCaption": ""
             }
           ]
