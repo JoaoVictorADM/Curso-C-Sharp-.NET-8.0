@@ -4,10 +4,8 @@ cd.VerificaAcesso();
 
 Console.ReadKey();
 
-public class ClasseDerivada : ClasseBase
-{
-    public void VerificaAcesso()
-    {
+public class ClasseDerivada : ClasseBase{
+    public void VerificaAcesso(){
         Public_Membro();
         Protected_Membro();
         Protected_Internal_Membro();
@@ -20,8 +18,7 @@ public class ClasseDerivada : ClasseBase
     }
 }
 
-public class ClasseBase
-{
+public class ClasseBase{
     //campos
     public int public_var = 1;
     protected int protected_var = 2;
